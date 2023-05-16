@@ -10,7 +10,7 @@ Hi, I'm Omair Mohammed, Front-End Developer And Computer Science student, passio
 
 - ❤️ I love writing JavaScript, and building a beautiful apps
 
-- 💬 Ask me about anything [here](https://github.com/OmairM0/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/OmairM0/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
