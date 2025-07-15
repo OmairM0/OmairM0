@@ -6,11 +6,9 @@ Hi, I'm Omair Mohammed, Front-End Developer And Computer Science student, passio
 
 **About me**
 
-- 💼 FrontEnd Freelancer
+- 💼 Front-End Freelancer
 
 - ❤️ I love writing JavaScript, and building a beautiful apps
-
-- 💬 Ask me about anything [here](https://github.com/OmairM0/OmairM0/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -25,7 +23,7 @@ Hi, I'm Omair Mohammed, Front-End Developer And Computer Science student, passio
 #### Top Repositories
 
 
-<a href="https://github.com/OmairM0/My-links">
+<a href="https://github.com/OmairM0/my-debts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OmairM0&repo=My-links&theme=buefy" />
 </a>
 
