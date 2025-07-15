@@ -24,7 +24,7 @@ Hi, I'm Omair Mohammed, Front-End Developer And Computer Science student, passio
 
 
 <a href="https://github.com/OmairM0/my-debts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OmairM0&repo=My-links&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OmairM0&repo=My-Debts&theme=buefy" />
 </a>
 
 
